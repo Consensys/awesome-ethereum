@@ -17,6 +17,7 @@ Much more than just block listers, these explorers can give you a lot of insight
 
 - [Etherscan](https://etherscan.io/)
 - [Ethstats](https://ethstats.io)
+- [Ethstats Lite Explorer](https://github.com/Alethio/ethstats-lite-explorer)
 - [Bloxy](https://bloxy.info/)
 - [Amberdata](https://amberdata.io/)
 - [Trivial](https://trivial.co/)
